@@ -7,7 +7,7 @@ With **20+ years in IT**, I specialize in **databases, DevOps, and automation**.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Hello%2C+I'm+Ritesh+👋;Technologist+%7C+DBA+%7C+DevOps+Engineer;Passionate+about+Automation+%26+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Hello%2C+I'm+Ritesh+👋;Technologist+%7C+DBA+%7C+DevOps+Engineer;Passionate+about+Automation+%26+IoT" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,17 +21,9 @@ With **20+ years in IT**, I specialize in **databases, DevOps, and automation**.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritexlabs&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritexlabs&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=ritexlabs&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ritexlabs&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
