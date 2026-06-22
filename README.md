@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ritesh  
 
-🚀 **Technologist | Database Admin | DevOps Engineer | Automation Enthusiast**  
+🚀 **Technologist | Database Admin | DevOps Engineer | Cloud Architect | Automation Enthusiast**  
 
 With **20+ years in IT**, I specialize in **databases, DevOps, and automation**. I love simplifying workflows, automating repetitive tasks, and exploring IoT/home automation projects.  
 
